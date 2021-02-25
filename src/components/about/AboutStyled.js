@@ -1,6 +1,6 @@
 import styled from "styled-components";
 const AboutStyled = styled.div`
-  background-color: #e5e5e5;
+  background-color: rgba(128, 128, 128, 0.1);
   padding-top: 110px;
   padding-bottom: 110px;
   padding-right: 90px;
