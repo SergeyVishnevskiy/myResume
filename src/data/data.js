@@ -35,7 +35,11 @@ export default {
   ],
   // 'Node.js',
   softSkills: ["Responsibility", "Stress-resistant", "Teamwork"],
-  languageSkills: ["English", "Ukrainian", "Russian"],
+  languageSkills: [
+    "English - Intermediate",
+    "Ukrainian - native",
+    "Russian - Proficiency ",
+  ],
   projects: [
     {
       link: "https://ka2nq1.github.io/parcel-project-template/",
