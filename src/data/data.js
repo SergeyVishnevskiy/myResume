@@ -36,8 +36,8 @@ export default {
   // 'Node.js',
   softSkills: ["Responsibility", "Stress-resistant", "Teamwork"],
   languageSkills: [
-    "English - Intermediate",
-    "Ukrainian - native",
+    "English - Pre-Intermediate",
+    "Ukrainian - Native",
     "Russian - Proficiency ",
   ],
   projects: [
