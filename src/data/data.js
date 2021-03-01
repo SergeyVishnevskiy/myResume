@@ -21,6 +21,11 @@ export default {
       link: "https://www.linkedin.com/in/sergiy-vishnevskiy",
       text: "linkedin.com/in/sergiy-vishnevskiy",
     },
+    // {
+    //   icon: Telegram(),
+    //   link: "https://t.me/SergiyVishnevskiy",
+    //   text: "@SergiyVishnevskiy",
+    // },
   ],
   techSkills: [
     "HTML5",
