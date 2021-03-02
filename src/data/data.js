@@ -2,6 +2,7 @@ import Git from "../assets/icons/Git";
 import LinkedIn from "../assets/icons/LinkedIn";
 import Mail from "../assets/icons/Mail";
 import Tel from "../assets/icons/Tel";
+import Telegram from "../assets/icons/Telegram";
 
 export default {
   contacts: [
@@ -21,11 +22,11 @@ export default {
       link: "https://www.linkedin.com/in/sergiy-vishnevskiy",
       text: "linkedin.com/in/sergiy-vishnevskiy",
     },
-    // {
-    //   icon: Telegram(),
-    //   link: "https://t.me/SergiyVishnevskiy",
-    //   text: "@SergiyVishnevskiy",
-    // },
+    {
+      icon: Telegram(),
+      link: "https://t.me/SergiyVishnevskiy",
+      text: "@SergiyVishnevskiy",
+    },
   ],
   techSkills: [
     "HTML5",
