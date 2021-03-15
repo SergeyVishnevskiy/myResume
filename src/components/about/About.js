@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <AboutStyled>
       <div className="info-container">
-        <h1 className="name">Sergiy Vishnevskiy</h1>
+        <h1 className="name">Serhii Vyshnevskyi</h1>
         <h2 className="profession">Front-End Developer</h2>
         <h2 className="profession">Rivne, Ukraine</h2>
         <p className="description">
