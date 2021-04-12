@@ -40,7 +40,13 @@ export default {
     "Agile",
   ],
   // 'Node.js',
-  softSkills: ["Responsibility", "Stress-resistant", "Teamwork"],
+  softSkills: [
+    "Responsibility",
+    "Self-study",
+    "Focus on results",
+    "The ability to listen",
+    "Teamwork",
+  ],
   languageSkills: [
     "English - Intermediate",
     "Ukrainian - Native",
