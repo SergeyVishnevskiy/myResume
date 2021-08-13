@@ -33,6 +33,7 @@ export default {
     'CSS3',
     'GIT',
     'WebPack',
+    'Julp',
     'JavaScript',
     'React.js',
     'Redux',
@@ -80,6 +81,13 @@ export default {
   ],
   work: [
     {
+      title: 'Front-end web development',
+      company: 'Graphic Design Studio "Tribe"',
+      period: 'June 2021 – present time',
+      country: 'Ukraine',
+      duties: ['layout of pages of varying complexity'],
+    },
+    {
       title: 'Full Stack Developer',
       company: 'Student at GoIT',
       period: 'September 2020 - May 2021',
@@ -94,17 +102,6 @@ export default {
       duties: [
         'Perfect knowledge of goods and services',
         'Solving customer problems with communication',
-      ],
-    },
-    {
-      title: 'Barman',
-      company: '“Manhattan”',
-      period: 'June 2014 – August 2016',
-      country: 'Ukraine',
-      duties: [
-        'Planning supply for the shops',
-        'Keeping records of goods',
-        'Cash discipline',
       ],
     },
   ],
