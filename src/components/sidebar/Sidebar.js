@@ -5,7 +5,7 @@ import data from "../../data/data";
 const Sidebar = () => {
   return (
     <SidebarStyled>
-      <Photo />
+      {/* <Photo /> */}
 
       <div className="sidebar-container">
         <h3 className="sidebar-title">Contacts</h3>

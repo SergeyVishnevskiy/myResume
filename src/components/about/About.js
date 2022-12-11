@@ -6,8 +6,8 @@ const AboutMe = () => {
     <AboutStyled>
       <div className="info-container">
         <h1 className="name">Serhii Vyshnevskyi</h1>
-        <h2 className="profession">Full Stack Developer</h2>
-        <h2 className="profession">Rivne, Ukraine</h2>
+        <h2 className="profession">Front End Developer</h2>
+        <h2 className="profession">Anchorage, United States 99518</h2>
         <p className="description">
           Aspiring graduate of Fullstack development courses looking for a
           position as a junior frontend developer to provide great results for

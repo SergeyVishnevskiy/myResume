@@ -6,7 +6,7 @@ import Telegram from '../assets/icons/Telegram'
 
 export default {
   contacts: [
-    { icon: Tel(), link: 'tel:380683151013', text: ' +38 068 315 10 13' },
+    { icon: Tel(), link: 'tel:19072506026', text: ' +1 907 250 6026' },
     {
       icon: Mail(),
       link: 'mailto:serrzik13manager@gmail.com',
@@ -40,6 +40,7 @@ export default {
     'Scrum',
     'Agile',
     'Node.js',
+    'Angular',
   ],
   softSkills: [
     'Responsibility',
@@ -51,7 +52,7 @@ export default {
   languageSkills: [
     'English - Intermediate',
     'Ukrainian - Native',
-    'Russian - Proficiency ',
+    'Russian - Proficiency',
   ],
   projects: [
     {
@@ -80,10 +81,17 @@ export default {
     },
   ],
   work: [
+      {
+      title: 'HTML - coder',
+      company: 'Lizard Soft',
+      period: 'March 2022 – October 2022',
+      country: 'Ukraine',
+      duties: ['development of new sites, stylization of components'],
+    },
     {
       title: 'Front-end web development',
       company: 'Graphic Design Studio "Tribe"',
-      period: 'June 2021 – present time',
+      period: 'June 2021 – February 2022',
       country: 'Ukraine',
       duties: ['layout of pages of varying complexity'],
     },

@@ -1,15 +1,17 @@
 import styled from "styled-components";
 const SidebarStyled = styled.div`
   /* background: #1e2939; */
-  width: 370px;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
   margin-left: auto;
-  padding-top: 20px;
+  padding-top: 150px;
   padding-bottom: 40px;
   background: darkslateblue;
   .sidebar-container {
-    margin-top: 55px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-top: 48px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   .sidebar-title {
     color: #fffacf;
