@@ -1,11 +1,9 @@
 import styled from "styled-components";
 const SidebarStyled = styled.div`
   /* background: #1e2939; */
-  display: flex;
-  flex-direction: column;
-  width: 400px;
+  width: 300px;
   margin-left: auto;
-  padding-top: 150px;
+  padding-top: 90px;
   padding-bottom: 40px;
   background: darkslateblue;
   .sidebar-container {

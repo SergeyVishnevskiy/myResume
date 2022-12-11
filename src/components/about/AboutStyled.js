@@ -1,12 +1,12 @@
 import styled from "styled-components";
 const AboutStyled = styled.div`
   background-color: rgba(128, 128, 128, 0.1);
-  padding-top: 110px;
-  padding-bottom: 110px;
-  padding-right: 90px;
-  padding-left: 90px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  padding-right: 40px;
+  padding-left: 40px;
   .info-container {
-    margin-bottom: 65px;
+    margin-bottom: 48px;
   }
   .profession {
     font-size: 14px;
