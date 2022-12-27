@@ -1,4 +1,4 @@
-import Photo from "../photo/Photo";
+// import Photo from "../photo/Photo";
 import SidebarStyled from "./SidebarStyled";
 import data from "../../data/data";
 
