@@ -48,7 +48,7 @@ const Sidebar = () => {
         </ul>
       </div>
 
-      <div className="sidebar-container">
+      {/* <div className="sidebar-container">
         <h3 className="sidebar-title">Languges</h3>
         <ul>
           {data.languageSkills.map((item) => (
@@ -57,7 +57,7 @@ const Sidebar = () => {
             </li>
           ))}
         </ul>
-      </div>
+      </div> */}
     </SidebarStyled>
   );
 };

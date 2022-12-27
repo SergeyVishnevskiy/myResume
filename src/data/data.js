@@ -43,16 +43,16 @@ export default {
     'Angular',
   ],
   softSkills: [
-    'Responsibility',
-    'Self-study',
+    'Responsible',
+    'Self Study',
     'Focus on results',
     'The ability to listen',
     'Teamwork',
+    'Attention to Detail',
+    'Fast Learner',
+    'Problem Solving',
   ],
   languageSkills: [
-    'English - Intermediate',
-    'Ukrainian - Native',
-    'Russian - Proficiency',
   ],
   projects: [
     {
@@ -60,12 +60,6 @@ export default {
       techStack: 'HTML, CSS',
       description:
         'The idea of this project is an adaptive web page for selling products and expanding the retail network, made using knowledge of HTML and CSS (SASS).',
-    },
-    {
-      link: 'https://mikelp13.github.io/js-project-v2/',
-      techStack: 'JavaScript',
-      description:
-        'The idea of this project is an adaptive functioning callboard web-app made using knowledge of Javascript.',
     },
     {
       link: 'https://team3-slimmom.netlify.app',
@@ -86,21 +80,21 @@ export default {
       company: 'Lizard Soft',
       period: 'March 2022 – October 2022',
       country: 'Ukraine',
-      duties: ['development of new sites, stylization of components'],
+      duties: ['development of new sites, stylization of components', 'Multi-tasked across multiple functions and roles to generate project results and meet deadlines and organizational expectations'],
     },
     {
       title: 'Front-end web development',
       company: 'Graphic Design Studio "Tribe"',
       period: 'June 2021 – February 2022',
       country: 'Ukraine',
-      duties: ['layout of pages of varying complexity'],
+      duties: ['layout of pages of varying complexity', 'Reviewed and tested customer-facing prototypes before deployment, applying best practice diagnostic techniques to verify usability'],
     },
     {
       title: 'Full Stack Developer',
       company: 'Student at GoIT',
       period: 'September 2020 - May 2021',
       country: 'Ukraine',
-      duties: ['Scrum Master on the project JS'],
+      duties: ['Scrum Master on Project JS', 'Developed, coded, modified and debugged application programs of varying degree of complexity with full independence'],
     },
     {
       title: 'Customer service manager',
@@ -109,21 +103,21 @@ export default {
       country: 'Ukraine',
       duties: [
         'Perfect knowledge of goods and services',
-        'Solving customer problems with communication',
+        'Answered customer questions regarding sizing, accessories and proper care for merchandise, engaged customers to promote specific merchandise',
       ],
     },
   ],
   education: [
     {
       establishment: 'GoIT',
-      speciality: 'Full Stack JS Developer',
+      speciality: 'Associate of Science Full Stack JS Developer',
       period: 'September 2020 - May 2021',
       country: 'Ukraine',
     },
     {
       establishment:
         'National University of Water Management and Environmental Sciences',
-      speciality: 'Manager-Economist',
+      speciality: 'Bachelor of Science Managerial Economics',
       period: 'September 2008 – January 2013',
       country: 'Ukraine',
     },
