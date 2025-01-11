@@ -106,6 +106,29 @@ export default {
         'Answered customer questions regarding sizing, accessories and proper care for merchandise, engaged customers to promote specific merchandise',
       ],
     },
+        {
+      title: 'Bar manager, bartender',
+      company: ' “Manhattan”',
+      period: 'June 2014 – August 2016',
+      country: 'Ukraine',
+      duties: [
+        'Perfect knowledge of goods and services',
+        'Maintain constant cleanliness of the workplace',
+        'Wash and wipe barware',
+        'To constantly replenish product stocks and control their consumption',
+      ],
+    },
+        {
+      title: 'Bartender',
+      company: ' “Star”',
+      period: 'June 2012 – June 2014',
+      country: 'Ukraine',
+      duties: [
+        'Perfect knowledge of goods and services',
+        'Maintain constant cleanliness of the workplace',
+        'Wash and wipe barware',
+      ],
+    },
   ],
   education: [
     {

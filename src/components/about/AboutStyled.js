@@ -27,7 +27,7 @@ const AboutStyled = styled.div`
     margin-top: 24px;
   }
   .projects-container {
-    margin-bottom: 55px;
+    margin-bottom: 75px;
   }
   .about-me-title {
     font-size: 22px;
@@ -98,7 +98,7 @@ const AboutStyled = styled.div`
   }
   .profession-duties {
     margin-top: 14px;
-    margin-bottom: 30px;
+    margin-bottom: 48px;
     margin-left: 14px;
   }
   .profession-duties-item {
